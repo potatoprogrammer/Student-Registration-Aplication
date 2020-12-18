@@ -1,7 +1,12 @@
 ﻿
-/*This project is supposed to have a CRUD with a login, for students records used by employees*/
+/*
+ * This project is supposed to have a CRUD with a login, for students records used by employees
+ */
 
-
+/*
+ * Author: Caio Victor Goncalves
+ * Date: 2020-12-18
+ */
 
 
 using MySqlConnector;
